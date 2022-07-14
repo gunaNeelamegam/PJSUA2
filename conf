@@ -1,0 +1,60 @@
+12:46:15.253         sip_endpoint.c  .Module "mod-pjsua-log" registered
+12:46:15.253         sip_endpoint.c  .Module "mod-tsx-layer" registered
+12:46:15.253         sip_endpoint.c  .Module "mod-stateful-util" registered
+12:46:15.253         sip_endpoint.c  .Module "mod-ua" registered
+12:46:15.254         sip_endpoint.c  .Module "mod-100rel" registered
+12:46:15.254         sip_endpoint.c  .Module "mod-pjsua" registered
+12:46:15.254         sip_endpoint.c  .Module "mod-invite" registered
+12:46:15.270             alsa_dev.c  ..Added sound device default
+12:46:15.272             alsa_dev.c  ..Added sound device surround21
+12:46:15.272             alsa_dev.c  ..Added sound device surround40
+12:46:15.272             alsa_dev.c  ..Added sound device surround41
+12:46:15.273             alsa_dev.c  ..Added sound device surround50
+12:46:15.273             alsa_dev.c  ..Added sound device surround51
+12:46:15.273             alsa_dev.c  ..Added sound device surround71
+12:46:15.274             alsa_dev.c  ..Added sound device samplerate
+12:46:15.274             alsa_dev.c  ..Added sound device speexrate
+12:46:15.275             alsa_dev.c  ..Added sound device jack
+12:46:15.275             alsa_dev.c  ..Added sound device oss
+12:46:15.277             alsa_dev.c  ..Added sound device pulse
+12:46:15.277             alsa_dev.c  ..Added sound device upmix
+12:46:15.277             alsa_dev.c  ..Added sound device vdownmix
+12:46:15.278             alsa_dev.c  ..Added sound device sysdefault:CARD=PCH
+12:46:15.279             alsa_dev.c  ..Added sound device front:CARD=PCH,DEV=0
+12:46:15.279             alsa_dev.c  ..Added sound device surround21:CARD=PCH,DEV=0
+12:46:15.279             alsa_dev.c  ..Added sound device surround40:CARD=PCH,DEV=0
+12:46:15.279             alsa_dev.c  ..Added sound device surround41:CARD=PCH,DEV=0
+12:46:15.279             alsa_dev.c  ..Added sound device surround50:CARD=PCH,DEV=0
+12:46:15.280             alsa_dev.c  ..Added sound device surround51:CARD=PCH,DEV=0
+12:46:15.280             alsa_dev.c  ..Added sound device surround71:CARD=PCH,DEV=0
+12:46:15.287             alsa_dev.c  ..Added sound device hdmi:CARD=PCH,DEV=0
+12:46:15.287             alsa_dev.c  ..Added sound device hdmi:CARD=PCH,DEV=1
+12:46:15.288             alsa_dev.c  ..Added sound device hdmi:CARD=PCH,DEV=2
+12:46:15.288             alsa_dev.c  ..Added sound device hdmi:CARD=PCH,DEV=3
+12:46:15.288             alsa_dev.c  ..Added sound device hdmi:CARD=PCH,DEV=4
+12:46:15.289             alsa_dev.c  ..Added sound device dmix:CARD=PCH,DEV=0
+12:46:15.290             alsa_dev.c  ..Added sound device dmix:CARD=PCH,DEV=2
+12:46:15.324             alsa_dev.c  ..Added sound device dmix:CARD=PCH,DEV=3
+12:46:15.325             alsa_dev.c  ..Added sound device dmix:CARD=PCH,DEV=7
+12:46:15.326             alsa_dev.c  ..Added sound device dmix:CARD=PCH,DEV=8
+12:46:15.330             alsa_dev.c  ..ALSA driver found 32 devices
+12:46:15.330             alsa_dev.c  ..ALSA initialized
+12:46:15.330                  pjlib  ..select() I/O Queue created (0x7fc1c02eebe8)
+12:46:15.330           conference.c  ..Creating conference bridge with 254 ports
+12:46:15.330           Master/sound  ..Using delay buffer with WSOLA.
+12:46:15.332         sip_endpoint.c  .Module "mod-evsub" registered
+12:46:15.332         sip_endpoint.c  .Module "mod-presence" registered
+12:46:15.332                evsub.c  .Event pkg "presence" registered by mod-presence
+12:46:15.333         sip_endpoint.c  .Module "mod-mwi" registered
+12:46:15.333                evsub.c  .Event pkg "message-summary" registered by mod-mwi
+12:46:15.333         sip_endpoint.c  .Module "mod-refer" registered
+12:46:15.333                evsub.c  .Event pkg "refer" registered by mod-refer
+12:46:15.333         sip_endpoint.c  .Module "mod-pjsua-pres" registered
+12:46:15.333         sip_endpoint.c  .Module "mod-pjsua-im" registered
+12:46:15.333         sip_endpoint.c  .Module "mod-pjsua-options" registered
+12:46:15.333           pjsua_core.c  .1 SIP worker threads created
+12:46:15.333           pjsua_core.c  .pjsua version 2.12.1 for Linux-5.13.0.52/x86_64/glibc-2.31 initialized
+12:46:15.333           pjsua_core.c  .PJSUA state changed: CREATED --> INIT
+12:46:15.333           pjsua_core.c  PJSUA state changed: INIT --> STARTING
+12:46:15.333         sip_endpoint.c  .Module "mod-unsolicited-mwi" registered
+12:46:15.333           pjsua_core.c  .PJSUA state changed: STARTING --> RUNNING
