@@ -1,0 +1,10 @@
+com/zilogic/Pjsua2/MyApp.class
+com/zilogic/Pjsua2/MyObserver.class
+com/zilogic/Pjsua2/MyAccount.class
+com/zilogic/Pjsua2/MyCall.class
+com/zilogic/Pjsua2/MyLogWriter.class
+com/zilogic/Pjsua2/MyAccountConfig.class
+com/zilogic/Pjsua2/MyBuddy.class
+com/zilogic/Pjsua2/MyShutdownHook.class
+com/zilogic/Pjsua2/MyAppObserver.class
+com/zilogic/Pjsua2/MainApp.class
